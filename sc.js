@@ -19,7 +19,7 @@
                 },
                 {
                     name: "FILE ALL ANDRO",
-                    items: ["AIM HEAD 90% 35K", "AIM HEAD 80% 25K", "AIM HEAD 70% 15K", "AIM STABIL 10K", "HOLOGRAM 15K", "AIM HEAD V2"]
+                    items: ["AIM HEAD 90% 35K", "AIM HEAD 80% 25K", "AIM HEAD 70% 15K", "AIM STABIL 10K", "HOLOGRAM 15K", "AIM HEADV2 40K"]
                 },
                 {
                     name: "FILE NO ROOT CC ALL ANDRO",
